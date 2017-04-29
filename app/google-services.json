@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "341125259608",
+    "firebase_url": "https://push-test-8dd0d.firebaseio.com",
+    "project_id": "push-test-8dd0d",
+    "storage_bucket": "push-test-8dd0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341125259608:android:c04c476d455d1e24",
+        "android_client_info": {
+          "package_name": "com.mstage.kai.firebasepushtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341125259608-enkqj4dr4oo2e9t9lcbp1cu2kfk6qc39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKMRqxMt5s3DX4Pi9sIXgoFlgTQ75ruKk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
